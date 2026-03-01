@@ -313,4 +313,3 @@ Production-ready, performant, cost-effective
 
 Cloud migration isn't a straight line. It's more like a GPS route that keeps "recalculating" every time you think you've figured it out. But every detour teaches you something valuable, and the destination — modern, containerized, scalable applications — is absolutely worth the trip.
 
-Just... maybe run those POCs first. Future you will be grateful. 🙏
